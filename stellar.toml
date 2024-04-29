@@ -1,0 +1,30 @@
+VERSION="2.2.1"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=["GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"]
+
+[DOCUMENTATION]
+ORG_NAME="qfssys"
+ORG_DESCRIPTION="QFS is Lifetime Liquidity REWARD Project in Stellar Network.365% APY IN QFS/XLM LP REWARD"
+ORG_DBA="qfssys.github.io"
+ORG_URL="https://qfssys.github.io"
+ORG_LOGO= "https://qfssys.github.io/img/QFS.png"
+ORG_OFFICIAL_EMAIL="qfs.finance2024@gmail.com"
+
+[[PRINCIPALS]]
+name="qfssys"
+email="qfs.finance2024@gmail.com"
+github="qfssys"
+
+[[CURRENCIES]]
+code="QFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="qfssys"
+desc="365% APY IN QFS/XLM LP REWARD"
+conditions="365% APY IN QFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
