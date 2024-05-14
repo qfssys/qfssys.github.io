@@ -42,3 +42,101 @@ is_asset_anchored=true
 is_unlimited=false
 anchor_asset="QFS"
 anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="AQFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="AQFS"
+desc="365% APY IN AQFS/XLM LP REWARD"
+conditions="365% APY IN AQFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="BQFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="BQFS"
+desc="365% APY IN BQFS/XLM LP REWARD"
+conditions="365% APY IN BQFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="CQFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="CQFS"
+desc="365% APY IN CQFS/XLM LP REWARD"
+conditions="365% APY IN CQFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="DQFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="DQFS"
+desc="365% APY IN DQFS/XLM LP REWARD"
+conditions="365% APY IN DQFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="EQFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="EQFS"
+desc="365% APY IN EQFS/XLM LP REWARD"
+conditions="365% APY IN EQFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="FQFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="FQFS"
+desc="365% APY IN FQFS/XLM LP REWARD"
+conditions="365% APY IN FQFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="GQFS"
+status="live"
+issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+display_decimals=7
+name="GQFS"
+desc="365% APY IN GQFS/XLM LP REWARD"
+conditions="365% APY IN GQFS/XLM LP REWARD"
+image="https://qfssys.github.io/img/QFS.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="QFS"
+anchor_asset_type="crypto"
