@@ -1,6 +1,5 @@
 VERSION="2.2.1"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-ACCOUNTS=["GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"]
 
 [DOCUMENTATION]
 ORG_NAME="qfssys"
@@ -14,34 +13,6 @@ ORG_OFFICIAL_EMAIL="qfs.finance2024@gmail.com"
 name="qfssys"
 email="qfs.finance2024@gmail.com"
 github="qfssys"
-
-[[CURRENCIES]]
-code="QFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="QFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="QUANT"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="QUANT"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QUANT.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
 
 [[CURRENCIES]]
 code="QBTC"
@@ -72,365 +43,29 @@ anchor_asset="QBTC"
 anchor_asset_type="crypto"
 
 [[CURRENCIES]]
-code="AQFS"
+code="QXLM"
 status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
 display_decimals=7
-name="AQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
+name="QXLM"
+desc="Purchase each QXLM token from any holder for the value of 1 XLM"
+conditions="Withdrawal fees apply"
+image="https://qfssys.github.io/img/QXLM.png"
 is_asset_anchored=true
 is_unlimited=false
-anchor_asset="QFS"
+anchor_asset="XLM"
 anchor_asset_type="crypto"
 
 [[CURRENCIES]]
-code="BQFS"
+code="QUSDC"
 status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
+issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
 display_decimals=7
-name="BQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
+name="QUSDC"
+desc="Purchase each QUSDC token from any holder for the value of 1 USDC"
+conditions="Withdrawal fees apply"
+image="https://qfssys.github.io/img/QUSDC.png"
 is_asset_anchored=true
 is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="CQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="CQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="DQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="DQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="EQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="EQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="FQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="FQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="GQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="GQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="HQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="HQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="IQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="IQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="JQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="JQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="KQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="KQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="LQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="LQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="MQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="MQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="NQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="NQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="OQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="OQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="PQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="PQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="QQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="QQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="RQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="RQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="SQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="SQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="TQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="TQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="UQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="UQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="VQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="VQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="WQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="WQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="XQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="XQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="YQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="YQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
-anchor_asset_type="crypto"
-
-[[CURRENCIES]]
-code="ZQFS"
-status="live"
-issuer="GAZ6BUBMXGQSAV67NRB33BGVN537HRQV46TIOFOV5EHI3PW76WSMQO7R"
-display_decimals=7
-name="ZQFS"
-desc="You are ready to become the next crypto millionaire"
-conditions="You are ready to become the next crypto millionaire"
-image="https://qfssys.github.io/img/QFS.png"
-is_asset_anchored=true
-is_unlimited=false
-anchor_asset="QFS"
+anchor_asset="USDC"
 anchor_asset_type="crypto"
