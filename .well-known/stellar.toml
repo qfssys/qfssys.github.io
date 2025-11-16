@@ -1,8 +1,8 @@
 VERSION="2.2.1"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 FEDERATION_SERVER="https://interstellar.exchange/backend/federation"
-DEPOSIT_SERVER="https://qfssys.github.io"
-TRANSFER_SERVER="https://qfssys.github.io"
+DEPOSIT_SERVER="https://qfssys.github.io/stellar"
+TRANSFER_SERVER="https://qfssys.github.io/stellar"
 SIGNING_KEY = "GAZ5RFWRPPND4RMSJE5FH5TJ6UV3E443YHWCS73F7LYIZKCNLQIMZRYT"
 WEB_AUTH_ENDPOINT = "https://qfssys.github.io"
 
