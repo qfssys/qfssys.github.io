@@ -74,3 +74,18 @@ is_asset_anchored=true
 is_unlimited=false
 anchor_asset="USDC"
 anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="XVAULT"
+status="live"
+issuer="GCM4UG6QYYNRFIM424WIQEAD5J6YQOKCWW4M7MPMT7IYRV5RQXDTJCGF"
+display_decimals=7
+name="XVAULT"
+desc="Purchase each XVAULT token from any holder for the value of 1 XLM"
+conditions="Withdrawal fees apply"
+image="https://qfssys.github.io/img/XVAULT.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="XLM"
+anchor_asset_type="crypto"
+
