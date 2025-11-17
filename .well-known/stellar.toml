@@ -3,15 +3,15 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 FEDERATION_SERVER="https://qfssys.github.io/backend/federation"
 DEPOSIT_SERVER="https://qfssys.github.io/stellar"
 TRANSFER_SERVER="https://qfssys.github.io/stellar"
-SIGNING_KEY = "GAZ5RFWRPPND4RMSJE5FH5TJ6UV3E443YHWCS73F7LYIZKCNLQIMZRYT"
-WEB_AUTH_ENDPOINT = "https://qfssys.github.io"
+SIGNING_KEY="GAZ5RFWRPPND4RMSJE5FH5TJ6UV3E443YHWCS73F7LYIZKCNLQIMZRYT"
+WEB_AUTH_ENDPOINT="https://qfssys.github.io"
 
 [DOCUMENTATION]
 ORG_NAME="qfssys"
 ORG_DESCRIPTION="You are ready to become the next crypto millionaire"
 ORG_DBA="qfssys.github.io"
 ORG_URL="https://qfssys.github.io"
-ORG_LOGO= "https://qfssys.github.io/img/QXLM.png"
+ORG_LOGO="https://qfssys.github.io/img/QXLM.png"
 ORG_OFFICIAL_EMAIL="qfs.finance2024@gmail.com"
 
 [[PRINCIPALS]]
