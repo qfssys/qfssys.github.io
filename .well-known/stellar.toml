@@ -22,85 +22,84 @@ github="qfssys"
 
 [[CURRENCIES]]
 code="QBTC"
-status="live"
-issuer="GAX46QEMVKRQKREMHQXGDF2YLOTHVY76JKZPQPV2MVIQI43EKK7SHCCZ"
-display_decimals=7
 name="QUANTBTC"
+issuer="GAX46QEMVKRQKREMHQXGDF2YLOTHVY76JKZPQPV2MVIQI43EKK7SHCCZ"
 desc="Purchase each QBTC token from any holder for the value of 1 BITCOIN"
 conditions="Withdrawal fees apply"
 image="https://qfssys.github.io/img/QBTC.png"
-is_asset_anchored=true
-is_unlimited=false
+status="live"
 anchor_asset="BTC"
 anchor_asset_type="crypto"
+display_decimals=7
+is_asset_anchored=true
+is_unlimited=false
 
 [[CURRENCIES]]
 code="yQBTC"
-status="live"
-issuer="GBMUGKI6P4QKNHX5GMKKWDD746WP3HUM5SPH5MSNZUW3VXDTA6S4ALDZ"
-display_decimals=7
 name="yieldQBTC"
+issuer="GBMUGKI6P4QKNHX5GMKKWDD746WP3HUM5SPH5MSNZUW3VXDTA6S4ALDZ"
 desc="Purchase each yQBTC token from any holder for the value of 1 QBTC"
 conditions="Withdrawal fees apply"
 image="https://qfssys.github.io/img/yQBTC.png"
-is_asset_anchored=true
-is_unlimited=false
+status="live"
 anchor_asset="QBTC"
 anchor_asset_type="crypto"
+display_decimals=7
+is_asset_anchored=true
+is_unlimited=false
 
 [[CURRENCIES]]
 code="QXLM"
-status="live"
-issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
-display_decimals=7
 name="QXLM"
+issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
 desc="Purchase each QXLM token from any holder for the value of 1 XLM"
 conditions="Withdrawal fees apply"
 image="https://qfssys.github.io/img/QXLM.png"
-is_asset_anchored=true
-is_unlimited=false
+status="live"
 anchor_asset="XLM"
 anchor_asset_type="crypto"
+display_decimals=7
+is_asset_anchored=true
+is_unlimited=false
 
 [[CURRENCIES]]
 code="QUSDC"
-status="live"
-issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
-display_decimals=7
 name="QUSDC"
+issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
 desc="Purchase each QUSDC token from any holder for the value of 1 USDC"
 conditions="Withdrawal fees apply"
 image="https://qfssys.github.io/img/QUSDC.png"
-is_asset_anchored=true
-is_unlimited=false
+status="live"
 anchor_asset="USDC"
 anchor_asset_type="crypto"
+display_decimals=7
+is_asset_anchored=true
+is_unlimited=false
 
 [[CURRENCIES]]
 code="AQUA"
-status="live"
-issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
-display_decimals=7
 name="AQUA"
+issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
 desc="Purchase each AQUA token from any holder for the value of 1 AQUA"
 conditions="Withdrawal fees apply"
 image="https://qfssys.github.io/img/AQUA.png"
-is_asset_anchored=true
-is_unlimited=false
+status="live"
 anchor_asset="AQUA"
 anchor_asset_type="crypto"
+display_decimals=7
+is_asset_anchored=true
+is_unlimited=false
 
 [[CURRENCIES]]
 code="XVAULT"
-status="live"
-issuer="GCM4UG6QYYNRFIM424WIQEAD5J6YQOKCWW4M7MPMT7IYRV5RQXDTJCGF"
-display_decimals=7
 name="XVAULT"
+issuer="GCM4UG6QYYNRFIM424WIQEAD5J6YQOKCWW4M7MPMT7IYRV5RQXDTJCGF"
 desc="Purchase each XVAULT token from any holder for the value of 1 XLM"
 conditions="Withdrawal fees apply"
 image="https://qfssys.github.io/img/XVAULT.png"
-is_asset_anchored=true
-is_unlimited=false
+status="live"
 anchor_asset="XLM"
 anchor_asset_type="crypto"
-
+display_decimals=7
+is_asset_anchored=true
+is_unlimited=false
