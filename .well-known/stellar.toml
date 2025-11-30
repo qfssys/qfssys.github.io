@@ -77,6 +77,20 @@ anchor_asset="USDC"
 anchor_asset_type="crypto"
 
 [[CURRENCIES]]
+code="AQUA"
+status="live"
+issuer="GANJ2WWTQXBHN4ICQJEQZCOHQFGNFWUSONZ3ZLIJIEVRYJ57ELO4JDRY"
+display_decimals=7
+name="AQUA"
+desc="Purchase each AQUA token from any holder for the value of 1 AQUA"
+conditions="Withdrawal fees apply"
+image="https://qfssys.github.io/img/AQUA.png"
+is_asset_anchored=true
+is_unlimited=false
+anchor_asset="AQUA"
+anchor_asset_type="crypto"
+
+[[CURRENCIES]]
 code="XVAULT"
 status="live"
 issuer="GCM4UG6QYYNRFIM424WIQEAD5J6YQOKCWW4M7MPMT7IYRV5RQXDTJCGF"
